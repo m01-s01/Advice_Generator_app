@@ -1,4 +1,4 @@
-# Advice generator app solution
+# Advice generator app
 
 ## Overview
 
